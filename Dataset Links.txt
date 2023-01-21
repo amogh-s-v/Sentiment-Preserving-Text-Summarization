@@ -1,0 +1,5 @@
+BBC News Summary
+https://www.kaggle.com/datasets/pariza/bbc-news-summary
+
+Sentiment140 dataset with 1.6 million tweets
+https://www.kaggle.com/datasets/kazanova/sentiment140
